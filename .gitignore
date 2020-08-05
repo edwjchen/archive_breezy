@@ -1,0 +1,10 @@
+__pycache__/*
+*/__pycache__
+archive_clang_outputs
+clang_output
+calc_data
+calc_save
+react_data
+bug_report_stats
+*test*
+overview_bugzilla_data
